@@ -12,7 +12,7 @@ margin-top: -37px;
 
 #landerHeader {
 font-family: 'Charmonman';
-font-size: 50px;
+font-size: 55px;
 color: white;
 }
 #guitarLogo {
@@ -23,7 +23,7 @@ color: white;
 #landerText{
     font-family: 'Quattrocento';
     color: white;
-    font-size: 35px;
+    font-size: 45px;
 }
 `
 export default class Lander extends Component {
